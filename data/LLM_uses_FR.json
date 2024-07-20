@@ -1,0 +1,1106 @@
+[
+    {
+        "Use": 1,
+        "Domain": "Biometric identification and categorization of natural persons",
+        "Purpose": "Secure access control",
+        "Capability": "Verifying identity through facial features",
+        "AI User": "Security firms, corporations",
+        "AI Subject": "Employees, visitors"
+    },
+    {
+        "Use": 2,
+        "Domain": "Biometric identification and categorization of natural persons",
+        "Purpose": "Criminal identification",
+        "Capability": "Matching faces to criminal databases",
+        "AI User": "Law enforcement agencies",
+        "AI Subject": "Suspects, criminals"
+    },
+    {
+        "Use": 3,
+        "Domain": "Biometric identification and categorization of natural persons",
+        "Purpose": "Personalized advertising",
+        "Capability": "Identifying demographic characteristics from faces",
+        "AI User": "Advertisers, marketers",
+        "AI Subject": "Consumers"
+    },
+    {
+        "Use": 4,
+        "Domain": "Family",
+        "Purpose": "Family photo organization",
+        "Capability": "Sorting photos based on facial recognition",
+        "AI User": "Family members, photo storage platforms",
+        "AI Subject": "Family members"
+    },
+    {
+        "Use": 5,
+        "Domain": "Family",
+        "Purpose": "Child safety monitoring",
+        "Capability": "Identifying unfamiliar faces in child's vicinity",
+        "AI User": "Parents, child safety apps",
+        "AI Subject": "Children"
+    },
+    {
+        "Use": 6,
+        "Domain": "Family",
+        "Purpose": "Elderly care assistance",
+        "Capability": "Recognizing signs of distress or confusion",
+        "AI User": "Caregivers, elderly care facilities",
+        "AI Subject": "Elderly individuals"
+    },
+    {
+        "Use": 7,
+        "Domain": "Romantic relationships and friendships",
+        "Purpose": "Social media tagging",
+        "Capability": "Identifying friends in photos for tagging",
+        "AI User": "Social media platforms, users",
+        "AI Subject": "Social media users"
+    },
+    {
+        "Use": 8,
+        "Domain": "Romantic relationships and friendships",
+        "Purpose": "Dating app matching",
+        "Capability": "Matching faces to user preferences",
+        "AI User": "Dating apps, users",
+        "AI Subject": "Dating app users"
+    },
+    {
+        "Use": 9,
+        "Domain": "Romantic relationships and friendships",
+        "Purpose": "Friendship analysis",
+        "Capability": "Analyzing interaction patterns in photos",
+        "AI User": "Social media platforms, users",
+        "AI Subject": "Social media users"
+    },
+    {
+        "Use": 10,
+        "Domain": "Health and Healthcare",
+        "Purpose": "Patient identification",
+        "Capability": "Verifying patient identity in medical settings",
+        "AI User": "Hospitals, clinics",
+        "AI Subject": "Patients"
+    },
+    {
+        "Use": 11,
+        "Domain": "Health and Healthcare",
+        "Purpose": "Disease diagnosis",
+        "Capability": "Identifying disease symptoms on faces",
+        "AI User": "Healthcare professionals, AI diagnostic tools",
+        "AI Subject": "Patients"
+    },
+    {
+        "Use": 12,
+        "Domain": "Health and Healthcare",
+        "Purpose": "Mental health assessment",
+        "Capability": "Analyzing facial expressions for emotional state",
+        "AI User": "Psychologists, mental health apps",
+        "AI Subject": "Patients"
+    },
+    {
+        "Use": 13,
+        "Domain": "Well-being",
+        "Purpose": "Mood tracking",
+        "Capability": "Analyzing facial expressions for mood assessment",
+        "AI User": "Well-being apps, users",
+        "AI Subject": "App users"
+    },
+    {
+        "Use": 14,
+        "Domain": "Well-being",
+        "Purpose": "Stress detection",
+        "Capability": "Identifying signs of stress on faces",
+        "AI User": "Well-being apps, users",
+        "AI Subject": "App users"
+    },
+    {
+        "Use": 15,
+        "Domain": "Well-being",
+        "Purpose": "Personal growth coaching",
+        "Capability": "Analyzing facial responses to personal growth exercises",
+        "AI User": "Personal growth apps, coaches",
+        "AI Subject": "Coaching clients"
+    },
+    {
+        "Use": 16,
+        "Domain": "Human-Computer Interaction",
+        "Purpose": "User authentication",
+        "Capability": "Verifying user identity for system access",
+        "AI User": "Software developers, users",
+        "AI Subject": "Software users"
+    },
+    {
+        "Use": 17,
+        "Domain": "Human-Computer Interaction",
+        "Purpose": "User experience personalization",
+        "Capability": "Adapting system behavior based on user's facial expressions",
+        "AI User": "Software developers, users",
+        "AI Subject": "Software users"
+    },
+    {
+        "Use": 18,
+        "Domain": "Human-Computer Interaction",
+        "Purpose": "Accessibility enhancement",
+        "Capability": "Enabling system control through facial gestures",
+        "AI User": "Software developers, users",
+        "AI Subject": "Users with physical disabilities"
+    },
+    {
+        "Use": 19,
+        "Domain": "Finance and Investment",
+        "Purpose": "Customer identification",
+        "Capability": "Verifying customer identity for transactions",
+        "AI User": "Banks, financial institutions",
+        "AI Subject": "Bank customers"
+    },
+    {
+        "Use": 20,
+        "Domain": "Finance and Investment",
+        "Purpose": "Fraud prevention",
+        "Capability": "Detecting fraudulent activities through facial recognition",
+        "AI User": "Banks, financial institutions",
+        "AI Subject": "Bank customers"
+    },
+    {
+        "Use": 21,
+        "Domain": "Finance and Investment",
+        "Purpose": "Investor sentiment analysis",
+        "Capability": "Analyzing facial expressions for market sentiment",
+        "AI User": "Investment firms, traders",
+        "AI Subject": "Investors"
+    },
+    {
+        "Use": 22,
+        "Domain": "Education and vocational training",
+        "Purpose": "Student attendance tracking",
+        "Capability": "Identifying students for attendance records",
+        "AI User": "Teachers, educational institutions",
+        "AI Subject": "Students"
+    },
+    {
+        "Use": 23,
+        "Domain": "Education and vocational training",
+        "Purpose": "Learning engagement assessment",
+        "Capability": "Analyzing student facial expressions for engagement levels",
+        "AI User": "Teachers, educational platforms",
+        "AI Subject": "Students"
+    },
+    {
+        "Use": 24,
+        "Domain": "Education and vocational training",
+        "Purpose": "Skill acquisition evaluation",
+        "Capability": "Assessing facial responses to vocational training tasks",
+        "AI User": "Trainers, vocational training institutions",
+        "AI Subject": "Trainees"
+    },
+    {
+        "Use": 25,
+        "Domain": "Employment, workers management and access to self-employment",
+        "Purpose": "Employee attendance tracking",
+        "Capability": "Recognizing employee faces for timekeeping",
+        "AI User": "Human Resources, Management",
+        "AI Subject": "Employees"
+    },
+    {
+        "Use": 26,
+        "Domain": "Employment, workers management and access to self-employment",
+        "Purpose": "Access control to restricted areas",
+        "Capability": "Verifying employee identity for secure access",
+        "AI User": "Security Personnel, Management",
+        "AI Subject": "Employees"
+    },
+    {
+        "Use": 27,
+        "Domain": "Employment, workers management and access to self-employment",
+        "Purpose": "Remote worker identification",
+        "Capability": "Validating remote worker identity during virtual meetings",
+        "AI User": "Management, Team Leaders",
+        "AI Subject": "Remote Employees"
+    },
+    {
+        "Use": 28,
+        "Domain": "Essential private services and public services and benefits",
+        "Purpose": "Identity verification for service access",
+        "Capability": "Confirming user identity for secure service access",
+        "AI User": "Service Providers, Government Agencies",
+        "AI Subject": "Service Users, Citizens"
+    },
+    {
+        "Use": 29,
+        "Domain": "Essential private services and public services and benefits",
+        "Purpose": "Fraud prevention in public benefits",
+        "Capability": "Detecting identity fraud in benefit claims",
+        "AI User": "Government Agencies",
+        "AI Subject": "Benefit Claimants"
+    },
+    {
+        "Use": 30,
+        "Domain": "Essential private services and public services and benefits",
+        "Purpose": "Automated passport control",
+        "Capability": "Verifying traveler identity at border controls",
+        "AI User": "Border Control Agencies",
+        "AI Subject": "Travelers"
+    },
+    {
+        "Use": 31,
+        "Domain": "Recommender Systems and Personalization",
+        "Purpose": "Personalized advertising",
+        "Capability": "Identifying user preferences for targeted ads",
+        "AI User": "Advertisers, Online Platforms",
+        "AI Subject": "Online Users"
+    },
+    {
+        "Use": 32,
+        "Domain": "Recommender Systems and Personalization",
+        "Purpose": "Content recommendation",
+        "Capability": "Analyzing user behavior for personalized content",
+        "AI User": "Streaming Platforms, Online Retailers",
+        "AI Subject": "Consumers"
+    },
+    {
+        "Use": 33,
+        "Domain": "Recommender Systems and Personalization",
+        "Purpose": "Personalized shopping experience",
+        "Capability": "Recognizing user for tailored shopping suggestions",
+        "AI User": "Retailers, E-commerce Platforms",
+        "AI Subject": "Shoppers"
+    },
+    {
+        "Use": 34,
+        "Domain": "Social Media",
+        "Purpose": "Photo tagging",
+        "Capability": "Identifying individuals in photos for tagging",
+        "AI User": "Social Media Platforms",
+        "AI Subject": "Social Media Users"
+    },
+    {
+        "Use": 35,
+        "Domain": "Social Media",
+        "Purpose": "Profile verification",
+        "Capability": "Verifying user identity to prevent fake profiles",
+        "AI User": "Social Media Platforms",
+        "AI Subject": "Social Media Users"
+    },
+    {
+        "Use": 36,
+        "Domain": "Social Media",
+        "Purpose": "Content moderation",
+        "Capability": "Detecting inappropriate or offensive images",
+        "AI User": "Social Media Platforms",
+        "AI Subject": "Social Media Users"
+    },
+    {
+        "Use": 37,
+        "Domain": "Sports and Recreation",
+        "Purpose": "Player identification",
+        "Capability": "Recognizing players during live sports broadcasts",
+        "AI User": "Broadcasters, Sports Leagues",
+        "AI Subject": "Athletes, Viewers"
+    },
+    {
+        "Use": 38,
+        "Domain": "Sports and Recreation",
+        "Purpose": "Fan engagement",
+        "Capability": "Identifying fans for personalized experiences",
+        "AI User": "Sports Teams, Event Organizers",
+        "AI Subject": "Sports Fans"
+    },
+    {
+        "Use": 39,
+        "Domain": "Sports and Recreation",
+        "Purpose": "Security at sports events",
+        "Capability": "Identifying individuals for security purposes",
+        "AI User": "Event Security, Sports Leagues",
+        "AI Subject": "Event Attendees"
+    },
+    {
+        "Use": 40,
+        "Domain": "Arts and Entertainment",
+        "Purpose": "Audience analysis",
+        "Capability": "Analyzing audience reactions during performances",
+        "AI User": "Performers, Event Organizers",
+        "AI Subject": "Audience Members"
+    },
+    {
+        "Use": 41,
+        "Domain": "Arts and Entertainment",
+        "Purpose": "Interactive exhibits",
+        "Capability": "Recognizing visitors for interactive experiences",
+        "AI User": "Museums, Art Galleries",
+        "AI Subject": "Visitors"
+    },
+    {
+        "Use": 42,
+        "Domain": "Arts and Entertainment",
+        "Purpose": "Character creation in video games",
+        "Capability": "Creating game characters based on user's face",
+        "AI User": "Game Developers",
+        "AI Subject": "Gamers"
+    },
+    {
+        "Use": 43,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Surveillance",
+        "Capability": "Identifying individuals in surveillance footage",
+        "AI User": "Law Enforcement, Security Companies",
+        "AI Subject": "General Public"
+    },
+    {
+        "Use": 44,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Access control",
+        "Capability": "Verifying identity for secure access",
+        "AI User": "Security Personnel, IT Administrators",
+        "AI Subject": "Employees, Users"
+    },
+    {
+        "Use": 45,
+        "Domain": "Security and Cybersecurity",
+        "Purpose": "Identity verification in cybersecurity",
+        "Capability": "Confirming user identity for secure online transactions",
+        "AI User": "Cybersecurity Firms, Online Platforms",
+        "AI Subject": "Online Users"
+    },
+    {
+        "Use": 46,
+        "Domain": "Marketing and Advertising",
+        "Purpose": "Targeted advertising",
+        "Capability": "Identifying user demographics for targeted ads",
+        "AI User": "Advertisers, Marketing Agencies",
+        "AI Subject": "Consumers"
+    },
+    {
+        "Use": 47,
+        "Domain": "Marketing and Advertising",
+        "Purpose": "Customer behavior analysis",
+        "Capability": "Analyzing customer reactions to ads",
+        "AI User": "Advertisers, Marketing Agencies",
+        "AI Subject": "Consumers"
+    },
+    {
+        "Use": 48,
+        "Domain": "Marketing and Advertising",
+        "Purpose": "Personalized marketing",
+        "Capability": "Recognizing customer preferences for personalized marketing",
+        "AI User": "Retailers, E-commerce Platforms",
+        "AI Subject": "Customers"
+    },
+    {
+        "Use": 49,
+        "Domain": "Agriculture and Farming",
+        "Purpose": "Livestock monitoring and management",
+        "Capability": "Identifying individual animals and tracking their health",
+        "AI User": "Farmers, livestock managers",
+        "AI Subject": "Livestock"
+    },
+    {
+        "Use": 50,
+        "Domain": "Agriculture and Farming",
+        "Purpose": "Crop health assessment",
+        "Capability": "Detecting plant diseases and pest infestations",
+        "AI User": "Farmers, agronomists",
+        "AI Subject": "Crops"
+    },
+    {
+        "Use": 51,
+        "Domain": "Agriculture and Farming",
+        "Purpose": "Harvest optimization",
+        "Capability": "Determining optimal harvest times based on crop maturity",
+        "AI User": "Farmers, agricultural consultants",
+        "AI Subject": "Crops"
+    },
+    {
+        "Use": 52,
+        "Domain": "Entrepreneurship",
+        "Purpose": "Customer identification and personalization",
+        "Capability": "Recognizing customers and tailoring services to their preferences",
+        "AI User": "Business owners, customer service representatives",
+        "AI Subject": "Customers"
+    },
+    {
+        "Use": 53,
+        "Domain": "Entrepreneurship",
+        "Purpose": "Security enhancement",
+        "Capability": "Verifying identities to prevent unauthorized access",
+        "AI User": "Business owners, security personnel",
+        "AI Subject": "Employees, customers"
+    },
+    {
+        "Use": 54,
+        "Domain": "Entrepreneurship",
+        "Purpose": "Employee attendance tracking",
+        "Capability": "Monitoring employee check-ins and check-outs",
+        "AI User": "Business owners, HR managers",
+        "AI Subject": "Employees"
+    },
+    {
+        "Use": 55,
+        "Domain": "Autonomous Robots and Robotics",
+        "Purpose": "Human-robot interaction",
+        "Capability": "Recognizing and responding to human faces and expressions",
+        "AI User": "Robot developers, operators",
+        "AI Subject": "Robot users"
+    },
+    {
+        "Use": 56,
+        "Domain": "Autonomous Robots and Robotics",
+        "Purpose": "Robot navigation",
+        "Capability": "Identifying obstacles and people to avoid collisions",
+        "AI User": "Robot developers, operators",
+        "AI Subject": "People in robot's environment"
+    },
+    {
+        "Use": 57,
+        "Domain": "Autonomous Robots and Robotics",
+        "Purpose": "Personalized robot services",
+        "Capability": "Recognizing specific individuals for personalized interactions",
+        "AI User": "Robot developers, operators",
+        "AI Subject": "Robot users"
+    },
+    {
+        "Use": 58,
+        "Domain": "Innovation and Research",
+        "Purpose": "Participant identification in research studies",
+        "Capability": "Recognizing and tracking participants in studies",
+        "AI User": "Researchers, scientists",
+        "AI Subject": "Research participants"
+    },
+    {
+        "Use": 59,
+        "Domain": "Innovation and Research",
+        "Purpose": "Data collection and analysis",
+        "Capability": "Collecting and analyzing facial data for research",
+        "AI User": "Researchers, scientists",
+        "AI Subject": "Research subjects"
+    },
+    {
+        "Use": 60,
+        "Domain": "Innovation and Research",
+        "Purpose": "Testing and improving facial recognition algorithms",
+        "Capability": "Using diverse facial data to refine algorithms",
+        "AI User": "Researchers, AI developers",
+        "AI Subject": "People in facial data sets"
+    },
+    {
+        "Use": 61,
+        "Domain": "Management and Operation of critical infrastructure",
+        "Purpose": "Access control",
+        "Capability": "Verifying identities for secure access to facilities",
+        "AI User": "Facility managers, security personnel",
+        "AI Subject": "Employees, visitors"
+    },
+    {
+        "Use": 62,
+        "Domain": "Management and Operation of critical infrastructure",
+        "Purpose": "Surveillance and security",
+        "Capability": "Monitoring areas for unauthorized individuals",
+        "AI User": "Security personnel, facility managers",
+        "AI Subject": "People in monitored areas"
+    },
+    {
+        "Use": 63,
+        "Domain": "Management and Operation of critical infrastructure",
+        "Purpose": "Emergency response",
+        "Capability": "Identifying individuals in emergency situations",
+        "AI User": "Emergency responders, security personnel",
+        "AI Subject": "People in emergency situations"
+    },
+    {
+        "Use": 64,
+        "Domain": "Law enforcement",
+        "Purpose": "Suspect identification",
+        "Capability": "Matching faces to criminal databases",
+        "AI User": "Police, investigators",
+        "AI Subject": "Suspects, victims"
+    },
+    {
+        "Use": 65,
+        "Domain": "Law enforcement",
+        "Purpose": "Crowd monitoring",
+        "Capability": "Identifying individuals in large crowds",
+        "AI User": "Police, security personnel",
+        "AI Subject": "People in crowds"
+    },
+    {
+        "Use": 66,
+        "Domain": "Law enforcement",
+        "Purpose": "Investigation assistance",
+        "Capability": "Analyzing facial data from surveillance footage",
+        "AI User": "Investigators, police",
+        "AI Subject": "People in surveillance footage"
+    },
+    {
+        "Use": 67,
+        "Domain": "Migration, Asylum and Border control management",
+        "Purpose": "Identity verification",
+        "Capability": "Matching faces to passport or ID photos",
+        "AI User": "Border control officers, immigration officials",
+        "AI Subject": "Travelers, migrants"
+    },
+    {
+        "Use": 68,
+        "Domain": "Migration, Asylum and Border control management",
+        "Purpose": "Security checks",
+        "Capability": "Identifying individuals on watchlists",
+        "AI User": "Border control officers, immigration officials",
+        "AI Subject": "Travelers, migrants"
+    },
+    {
+        "Use": 69,
+        "Domain": "Migration, Asylum and Border control management",
+        "Purpose": "Asylum application processing",
+        "Capability": "Verifying identities of asylum seekers",
+        "AI User": "Immigration officials, asylum officers",
+        "AI Subject": "Asylum seekers"
+    },
+    {
+        "Use": 70,
+        "Domain": "Democracy",
+        "Purpose": "Voter identification",
+        "Capability": "Verifying voter identities to prevent fraud",
+        "AI User": "Election officials, poll workers",
+        "AI Subject": "Voters"
+    },
+    {
+        "Use": 71,
+        "Domain": "Democracy",
+        "Purpose": "Public opinion analysis",
+        "Capability": "Analyzing facial expressions in public gatherings",
+        "AI User": "Political analysts, campaign managers",
+        "AI Subject": "People in public gatherings"
+    },
+    {
+        "Use": 72,
+        "Domain": "Democracy",
+        "Purpose": "Public safety at political events",
+        "Capability": "Identifying potential threats in crowds",
+        "AI User": "Security personnel, event organizers",
+        "AI Subject": "People at political events"
+    },
+    {
+        "Use": 73,
+        "Domain": "Media and Communication",
+        "Purpose": "Enhancing content personalization",
+        "Capability": "Analyzing viewer preferences and suggesting content",
+        "AI User": "Media platforms, content creators",
+        "AI Subject": "Media consumers"
+    },
+    {
+        "Use": 74,
+        "Domain": "Media and Communication",
+        "Purpose": "Verifying identity for secure communication",
+        "Capability": "Authenticating users based on facial features",
+        "AI User": "Communication platforms, corporations",
+        "AI Subject": "Communication platform users"
+    },
+    {
+        "Use": 75,
+        "Domain": "Media and Communication",
+        "Purpose": "Improving audience engagement",
+        "Capability": "Analyzing audience reactions to content",
+        "AI User": "Advertisers, marketers",
+        "AI Subject": "Audience members"
+    },
+    {
+        "Use": 76,
+        "Domain": "Accessibility and Inclusion",
+        "Purpose": "Assisting visually impaired individuals",
+        "Capability": "Identifying faces and providing audio descriptions",
+        "AI User": "Accessibility software developers",
+        "AI Subject": "Visually impaired individuals"
+    },
+    {
+        "Use": 77,
+        "Domain": "Accessibility and Inclusion",
+        "Purpose": "Facilitating non-verbal communication",
+        "Capability": "Interpreting facial expressions and gestures",
+        "AI User": "Communication app developers",
+        "AI Subject": "Non-verbal individuals"
+    },
+    {
+        "Use": 78,
+        "Domain": "Accessibility and Inclusion",
+        "Purpose": "Enhancing user interface accessibility",
+        "Capability": "Navigating software through facial movements",
+        "AI User": "Software developers, tech companies",
+        "AI Subject": "Users with mobility impairments"
+    },
+    {
+        "Use": 79,
+        "Domain": "Energy",
+        "Purpose": "Monitoring energy consumption",
+        "Capability": "Identifying users and adjusting energy usage",
+        "AI User": "Energy companies, smart home providers",
+        "AI Subject": "Homeowners, tenants"
+    },
+    {
+        "Use": 80,
+        "Domain": "Energy",
+        "Purpose": "Securing energy infrastructure",
+        "Capability": "Authenticating personnel access to facilities",
+        "AI User": "Energy companies, security firms",
+        "AI Subject": "Energy facility personnel"
+    },
+    {
+        "Use": 81,
+        "Domain": "Energy",
+        "Purpose": "Optimizing energy distribution",
+        "Capability": "Identifying usage patterns and adjusting distribution",
+        "AI User": "Energy companies, grid operators",
+        "AI Subject": "Energy consumers"
+    },
+    {
+        "Use": 82,
+        "Domain": "Military and Defense",
+        "Purpose": "Enhancing surveillance capabilities",
+        "Capability": "Identifying individuals in surveillance footage",
+        "AI User": "Military, intelligence agencies",
+        "AI Subject": "Surveillance targets"
+    },
+    {
+        "Use": 83,
+        "Domain": "Military and Defense",
+        "Purpose": "Improving personnel identification",
+        "Capability": "Verifying identity at military installations",
+        "AI User": "Military, defense contractors",
+        "AI Subject": "Military personnel"
+    },
+    {
+        "Use": 84,
+        "Domain": "Military and Defense",
+        "Purpose": "Facilitating threat assessment",
+        "Capability": "Identifying potential threats in crowds",
+        "AI User": "Military, law enforcement agencies",
+        "AI Subject": "Individuals in monitored areas"
+    },
+    {
+        "Use": 85,
+        "Domain": "Administration of justice and democratic processes",
+        "Purpose": "Assisting in criminal investigations",
+        "Capability": "Identifying suspects in video footage",
+        "AI User": "Law enforcement agencies",
+        "AI Subject": "Suspects, victims"
+    },
+    {
+        "Use": 86,
+        "Domain": "Administration of justice and democratic processes",
+        "Purpose": "Ensuring secure voting",
+        "Capability": "Verifying voter identity at polling stations",
+        "AI User": "Election authorities",
+        "AI Subject": "Voters"
+    },
+    {
+        "Use": 87,
+        "Domain": "Administration of justice and democratic processes",
+        "Purpose": "Facilitating courtroom identification",
+        "Capability": "Confirming identity of individuals in court proceedings",
+        "AI User": "Courts, legal professionals",
+        "AI Subject": "Defendants, witnesses"
+    },
+    {
+        "Use": 88,
+        "Domain": "Government Services and Administration",
+        "Purpose": "Improving public service delivery",
+        "Capability": "Identifying citizens for personalized services",
+        "AI User": "Government agencies",
+        "AI Subject": "Citizens"
+    },
+    {
+        "Use": 89,
+        "Domain": "Government Services and Administration",
+        "Purpose": "Enhancing security at public facilities",
+        "Capability": "Monitoring and identifying individuals at facilities",
+        "AI User": "Government agencies, security firms",
+        "AI Subject": "Public facility visitors"
+    },
+    {
+        "Use": 90,
+        "Domain": "Government Services and Administration",
+        "Purpose": "Facilitating document verification",
+        "Capability": "Comparing facial features with ID photos",
+        "AI User": "Government agencies",
+        "AI Subject": "Citizens, immigrants"
+    },
+    {
+        "Use": 91,
+        "Domain": "Diplomacy and Foreign Policy",
+        "Purpose": "Enhancing embassy security",
+        "Capability": "Identifying individuals at diplomatic facilities",
+        "AI User": "Embassies, diplomatic security services",
+        "AI Subject": "Embassy visitors, staff"
+    },
+    {
+        "Use": 92,
+        "Domain": "Diplomacy and Foreign Policy",
+        "Purpose": "Facilitating visa processing",
+        "Capability": "Comparing applicant photos with passport photos",
+        "AI User": "Embassies, consulates",
+        "AI Subject": "Visa applicants"
+    },
+    {
+        "Use": 93,
+        "Domain": "Diplomacy and Foreign Policy",
+        "Purpose": "Improving international relations",
+        "Capability": "Identifying foreign officials in meetings",
+        "AI User": "Diplomats, foreign affairs departments",
+        "AI Subject": "Foreign officials"
+    },
+    {
+        "Use": 94,
+        "Domain": "Food Safety and Regulation",
+        "Purpose": "Ensuring food safety compliance",
+        "Capability": "Identifying individuals in food production facilities",
+        "AI User": "Food safety regulators, food companies",
+        "AI Subject": "Food production workers"
+    },
+    {
+        "Use": 95,
+        "Domain": "Food Safety and Regulation",
+        "Purpose": "Improving food traceability",
+        "Capability": "Identifying individuals handling food products",
+        "AI User": "Food companies, regulators",
+        "AI Subject": "Food handlers, consumers"
+    },
+    {
+        "Use": 96,
+        "Domain": "Food Safety and Regulation",
+        "Purpose": "Enhancing food quality control",
+        "Capability": "Monitoring and identifying individuals in quality control",
+        "AI User": "Food companies, quality control agencies",
+        "AI Subject": "Quality control personnel"
+    },
+    {
+        "Use": 97,
+        "Domain": "Crisis Management and Emergency Response",
+        "Purpose": "Identifying victims in disaster zones",
+        "Capability": "Scanning and matching faces in real-time",
+        "AI User": "Emergency response teams",
+        "AI Subject": "Disaster victims"
+    },
+    {
+        "Use": 98,
+        "Domain": "Crisis Management and Emergency Response",
+        "Purpose": "Verifying identity of emergency responders",
+        "Capability": "Authenticating faces against a database",
+        "AI User": "Emergency response agencies",
+        "AI Subject": "Emergency responders"
+    },
+    {
+        "Use": 99,
+        "Domain": "Crisis Management and Emergency Response",
+        "Purpose": "Locating missing persons",
+        "Capability": "Comparing faces in crowds to missing persons",
+        "AI User": "Search and rescue teams",
+        "AI Subject": "Missing persons"
+    },
+    {
+        "Use": 100,
+        "Domain": "Humanitarian Aid",
+        "Purpose": "Distributing aid to verified recipients",
+        "Capability": "Recognizing faces to confirm identity",
+        "AI User": "Aid organizations",
+        "AI Subject": "Aid recipients"
+    },
+    {
+        "Use": 101,
+        "Domain": "Humanitarian Aid",
+        "Purpose": "Reuniting separated families",
+        "Capability": "Matching faces to find family members",
+        "AI User": "Refugee agencies",
+        "AI Subject": "Separated family members"
+    },
+    {
+        "Use": 102,
+        "Domain": "Humanitarian Aid",
+        "Purpose": "Tracking disease spread in refugee camps",
+        "Capability": "Identifying individuals in contact with infected persons",
+        "AI User": "Health organizations",
+        "AI Subject": "Refugees"
+    },
+    {
+        "Use": 103,
+        "Domain": "Transport and Logistics",
+        "Purpose": "Enhancing security at transport hubs",
+        "Capability": "Detecting and alerting on known criminals",
+        "AI User": "Transport authorities",
+        "AI Subject": "Travelers"
+    },
+    {
+        "Use": 104,
+        "Domain": "Transport and Logistics",
+        "Purpose": "Improving efficiency in cargo handling",
+        "Capability": "Identifying authorized personnel for cargo access",
+        "AI User": "Logistics companies",
+        "AI Subject": "Cargo handlers"
+    },
+    {
+        "Use": 105,
+        "Domain": "Transport and Logistics",
+        "Purpose": "Facilitating contactless ticketing systems",
+        "Capability": "Recognizing commuter faces for ticket validation",
+        "AI User": "Transport companies",
+        "AI Subject": "Commuters"
+    },
+    {
+        "Use": 106,
+        "Domain": "Urban Planning",
+        "Purpose": "Monitoring pedestrian traffic for city planning",
+        "Capability": "Counting and tracking faces in public spaces",
+        "AI User": "Urban planners",
+        "AI Subject": "City residents"
+    },
+    {
+        "Use": 107,
+        "Domain": "Urban Planning",
+        "Purpose": "Enhancing public safety in urban areas",
+        "Capability": "Identifying suspicious individuals in public spaces",
+        "AI User": "City authorities",
+        "AI Subject": "City residents"
+    },
+    {
+        "Use": 108,
+        "Domain": "Urban Planning",
+        "Purpose": "Managing access to restricted urban areas",
+        "Capability": "Verifying authorized individuals for access",
+        "AI User": "City authorities",
+        "AI Subject": "City residents"
+    },
+    {
+        "Use": 109,
+        "Domain": "Counterterrorism",
+        "Purpose": "Identifying potential threats in public spaces",
+        "Capability": "Recognizing faces of individuals on watchlists",
+        "AI User": "Security agencies",
+        "AI Subject": "General public"
+    },
+    {
+        "Use": 110,
+        "Domain": "Counterterrorism",
+        "Purpose": "Verifying identity of individuals at checkpoints",
+        "Capability": "Comparing faces to ID documents",
+        "AI User": "Security forces",
+        "AI Subject": "Individuals at checkpoints"
+    },
+    {
+        "Use": 111,
+        "Domain": "Counterterrorism",
+        "Purpose": "Investigating terrorist activities",
+        "Capability": "Analyzing faces in surveillance footage",
+        "AI User": "Investigation agencies",
+        "AI Subject": "Suspected individuals"
+    },
+    {
+        "Use": 112,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Monitoring wildlife populations",
+        "Capability": "Recognizing individual animals in a species",
+        "AI User": "Conservation organizations",
+        "AI Subject": "Wildlife"
+    },
+    {
+        "Use": 113,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Tracking illegal poaching activities",
+        "Capability": "Identifying faces of known poachers",
+        "AI User": "Wildlife protection agencies",
+        "AI Subject": "Suspected poachers"
+    },
+    {
+        "Use": 114,
+        "Domain": "Environment and Sustainability",
+        "Purpose": "Managing access to protected areas",
+        "Capability": "Verifying authorized individuals for access",
+        "AI User": "Park authorities",
+        "AI Subject": "Visitors"
+    },
+    {
+        "Use": 115,
+        "Domain": "International Law Enforcement and Cooperation",
+        "Purpose": "Identifying international criminals",
+        "Capability": "Matching faces to international criminal databases",
+        "AI User": "Interpol, national law enforcement agencies",
+        "AI Subject": "Suspected criminals"
+    },
+    {
+        "Use": 116,
+        "Domain": "International Law Enforcement and Cooperation",
+        "Purpose": "Facilitating international prisoner transfers",
+        "Capability": "Verifying identity of prisoners",
+        "AI User": "Prison authorities",
+        "AI Subject": "Prisoners"
+    },
+    {
+        "Use": 117,
+        "Domain": "International Law Enforcement and Cooperation",
+        "Purpose": "Enhancing border security",
+        "Capability": "Identifying individuals on watchlists at border crossings",
+        "AI User": "Border control agencies",
+        "AI Subject": "Travelers"
+    },
+    {
+        "Use": 118,
+        "Domain": "Climate Change Mitigation and Adaptation",
+        "Purpose": "Monitoring deforestation activities",
+        "Capability": "Identifying individuals involved in illegal logging",
+        "AI User": "Environmental agencies",
+        "AI Subject": "Suspected illegal loggers"
+    },
+    {
+        "Use": 119,
+        "Domain": "Climate Change Mitigation and Adaptation",
+        "Purpose": "Tracking carbon footprint of individuals",
+        "Capability": "Recognizing individuals for carbon credit systems",
+        "AI User": "Climate change organizations",
+        "AI Subject": "Individuals"
+    },
+    {
+        "Use": 120,
+        "Domain": "Climate Change Mitigation and Adaptation",
+        "Purpose": "Managing access to climate-sensitive areas",
+        "Capability": "Verifying authorized individuals for access",
+        "AI User": "Environmental authorities",
+        "AI Subject": "Visitors"
+    },
+    {
+        "Use": 121,
+        "Domain": "Gaming and interactive experiences",
+        "Purpose": "Enhancing player immersion",
+        "Capability": "Translating player's facial expressions into game",
+        "AI User": "Game developers, VR platforms",
+        "AI Subject": "Gamers"
+    },
+    {
+        "Use": 122,
+        "Domain": "Gaming and interactive experiences",
+        "Purpose": "Improving game accessibility",
+        "Capability": "Enabling control through facial movements",
+        "AI User": "Game developers, accessibility designers",
+        "AI Subject": "Disabled gamers"
+    },
+    {
+        "Use": 123,
+        "Domain": "Gaming and interactive experiences",
+        "Purpose": "Creating personalized avatars",
+        "Capability": "Generating avatars based on player's face",
+        "AI User": "Game developers, social platforms",
+        "AI Subject": "Gamers, social media users"
+    },
+    {
+        "Use": 124,
+        "Domain": "Hobbies",
+        "Purpose": "Enhancing photography",
+        "Capability": "Automatically focusing on faces in photos",
+        "AI User": "Photographers, camera manufacturers",
+        "AI Subject": "Photography enthusiasts"
+    },
+    {
+        "Use": 125,
+        "Domain": "Hobbies",
+        "Purpose": "Improving bird watching",
+        "Capability": "Identifying bird species from facial features",
+        "AI User": "Bird watchers, app developers",
+        "AI Subject": "Bird watching enthusiasts"
+    },
+    {
+        "Use": 126,
+        "Domain": "Hobbies",
+        "Purpose": "Personalizing music experience",
+        "Capability": "Adjusting music based on listener's expression",
+        "AI User": "Music lovers, app developers",
+        "AI Subject": "Music enthusiasts"
+    },
+    {
+        "Use": 127,
+        "Domain": "Smart home",
+        "Purpose": "Enhancing home security",
+        "Capability": "Recognizing authorized individuals for access",
+        "AI User": "Homeowners, security companies",
+        "AI Subject": "Home residents"
+    },
+    {
+        "Use": 128,
+        "Domain": "Smart home",
+        "Purpose": "Personalizing user experience",
+        "Capability": "Adjusting settings based on user's presence",
+        "AI User": "Homeowners, smart device manufacturers",
+        "AI Subject": "Home residents"
+    },
+    {
+        "Use": 129,
+        "Domain": "Smart home",
+        "Purpose": "Monitoring child safety",
+        "Capability": "Alerting when unrecognized faces are detected",
+        "AI User": "Parents, security companies",
+        "AI Subject": "Children"
+    },
+    {
+        "Use": 130,
+        "Domain": "Social and Community Services",
+        "Purpose": "Assisting in missing person cases",
+        "Capability": "Matching faces in public footage to missing persons",
+        "AI User": "Law enforcement, social workers",
+        "AI Subject": "Missing persons"
+    },
+    {
+        "Use": 131,
+        "Domain": "Social and Community Services",
+        "Purpose": "Enhancing public safety",
+        "Capability": "Identifying individuals on watchlists in public spaces",
+        "AI User": "Law enforcement, security agencies",
+        "AI Subject": "General public"
+    },
+    {
+        "Use": 132,
+        "Domain": "Social and Community Services",
+        "Purpose": "Improving service accessibility",
+        "Capability": "Facilitating sign language interpretation through facial expressions",
+        "AI User": "Service providers, accessibility designers",
+        "AI Subject": "Deaf and hard of hearing individuals"
+    },
+    {
+        "Use": 133,
+        "Domain": "Public and private transportation",
+        "Purpose": "Enhancing passenger security",
+        "Capability": "Verifying passenger identity for boarding",
+        "AI User": "Airlines, train companies",
+        "AI Subject": "Passengers"
+    },
+    {
+        "Use": 134,
+        "Domain": "Public and private transportation",
+        "Purpose": "Improving driver safety",
+        "Capability": "Detecting driver fatigue through facial analysis",
+        "AI User": "Car manufacturers, fleet managers",
+        "AI Subject": "Drivers"
+    },
+    {
+        "Use": 135,
+        "Domain": "Public and private transportation",
+        "Purpose": "Personalizing in-vehicle experience",
+        "Capability": "Adjusting settings based on driver's preferences",
+        "AI User": "Car manufacturers, ride-sharing companies",
+        "AI Subject": "Drivers, passengers"
+    },
+    {
+        "Use": 136,
+        "Domain": "Interpersonal Communication",
+        "Purpose": "Enhancing video communication",
+        "Capability": "Improving video quality by focusing on faces",
+        "AI User": "Video call platforms, users",
+        "AI Subject": "Video call participants"
+    },
+    {
+        "Use": 137,
+        "Domain": "Interpersonal Communication",
+        "Purpose": "Improving understanding of non-verbal cues",
+        "Capability": "Analyzing facial expressions during communication",
+        "AI User": "Communication platforms, users",
+        "AI Subject": "Communication participants"
+    },
+    {
+        "Use": 138,
+        "Domain": "Interpersonal Communication",
+        "Purpose": "Facilitating language learning",
+        "Capability": "Providing feedback on pronunciation through facial analysis",
+        "AI User": "Language learners, education platforms",
+        "AI Subject": "Language learners"
+    }
+]
